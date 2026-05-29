@@ -12,7 +12,7 @@ const Footer = () => {
           {/* Brand */}
           <div>
             <h2 className="text-xl font-bold text-stone-100">
-              Logos<span className="text-amber-700">.</span>
+              LogosCoffee.<span className="text-amber-700">.</span>
             </h2>
             <p className="mt-4 text-sm text-stone-400 leading-relaxed">
               A place where reason meets taste. Inspired by Stoicism and the concept of Logos,

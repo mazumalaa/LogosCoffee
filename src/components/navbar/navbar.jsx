@@ -75,7 +75,7 @@ const Navbar = ({ onCartClick }) => {
           onClick={() => scrollToSection("hero")}
           className="text-stone-100 font-bold text-xl cursor-pointer tracking-wide"
         >
-          Logos<span className="text-amber-700">.</span>
+          LogosCoffee.<span className="text-amber-700">.</span>
         </div>
 
         {/* Desktop Menu */}
